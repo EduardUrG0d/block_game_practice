@@ -18,3 +18,11 @@
 *.exe
 *.dll
 *.dylib
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/Library/PackageCache/
+*.dylib
+*.exe
+*.dll
