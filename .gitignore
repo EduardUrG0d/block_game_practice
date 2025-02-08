@@ -7,3 +7,14 @@
 *.sln
 *.exe
 *.dll
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/Library/PackageCache/
+/UserSettings/
+*.csproj
+*.sln
+*.exe
+*.dll
+*.dylib
